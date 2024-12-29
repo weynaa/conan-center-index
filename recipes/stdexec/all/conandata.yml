@@ -1,0 +1,4 @@
+sources:
+  "24.09":
+    url: https://github.com/NVIDIA/stdexec/archive/cddcd5a17dbec59d8502c0c6108553a20e74d2da/nvhpc-24.09.zip
+    sha256: a26897e1e76987d2360971e8de533983b042bf9cdfa378db8151181c7e5fa5f5
